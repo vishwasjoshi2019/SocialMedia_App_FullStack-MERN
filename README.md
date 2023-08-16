@@ -79,4 +79,4 @@ This project was created by [Vishwas Joshi](https://github.com/vishwasjoshi2019)
 This project's original concept and idea belong to [Ed-roh](https://github.com/ed-roh).
 
 [![GitHub - Ed-roh](https://img.shields.io/badge/GitHub-%40alejandro--ao-blue)](https://github.com/ed-roh)
-[![YouTube - Ed-roh](https://img.shields.io/badge/YouTube-%40alejandro__ao-red)](https://www.youtube.com/@alejandro_ao)
+[![YouTube - Ed-roh](https://img.shields.io/badge/YouTube-%40alejandro__ao-red)](https://www.youtube.com/@EdRohDev)
